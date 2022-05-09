@@ -1,10 +1,10 @@
 import './App.css'
-import TextInput from './custom-textinput/text-input';
+import OuterClickExample from './outer-click/click-example';
 
 
 function App() {
   return (
-    <TextInput />
+    <OuterClickExample />
   );
 }
 
