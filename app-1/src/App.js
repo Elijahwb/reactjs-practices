@@ -1,10 +1,10 @@
 import './App.css'
-import ProductsComponent from "./products/products-component";
+import TextInput from './custom-textinput/text-input';
 
 
 function App() {
   return (
-    <ProductsComponent />
+    <TextInput />
   );
 }
 
